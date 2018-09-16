@@ -6,12 +6,17 @@ contributor:
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51773-h/images/cover.jpg
 creator:
   author:
     agent_name: Stamers, James
     gutenberg_agent_id: '46428'
     url: http://www.gutenberg.org/2009/agents/46428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51773#Scent-Makes-a-Difference
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-17'
 gutenberg_type: Text
